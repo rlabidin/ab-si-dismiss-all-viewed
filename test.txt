@@ -1,0 +1,29 @@
+sliced_admin_notices
+a:2:{i:0;s:19:"invoice_viewed_2350";i:1;s:17:"quote_viewed_1947";}
+
+
+sliced_admin_notice_invoice_viewed_2350
+a:3:{s:5:"class";s:14:"notice-success";s:7:"content";s:142:"<p>Invoice <a class="sliced-number" href="http://localhost/abidinsapps/wp-admin/post.php?post=1403&action=edit">INV-AA-2350</a> was viewed</p>";s:11:"dismissable";b:1;}
+
+sliced_admin_notice_quote_viewed_1947
+a:3:{s:5:"class";s:14:"notice-success";s:7:"content";s:140:"<p>Quote <a class="sliced-number" href="http://localhost/abidinsapps/wp-admin/post.php?post=1403&action=edit">QUO-AA-1947</a> was viewed</p>";s:11:"dismissable";b:1;}
+
+
+
+
+
+
+
+
+
+
+sliced_admin_notice_invoice_viewed_2350
+a:3:{s:5:"class";s:14:"notice-success";s:7:"content";s:137:"<p>Invoice <a class="sliced-number" href="https://abidinsapps.com/wp-admin/post.php?post=2350&action=edit">INV-AA-2064</a> was viewed</p>";s:11:"dismissable";b:1;}
+
+a:3:{s:5:"class";s:14:"notice-success";s:7:"content";s:142:"<p>Invoice <a class="sliced-number" href="http://localhost/abidinsapps/wp-admin/post.php?post=1403&action=edit">INV-AA-2350</a> was viewed</p>";s:11:"dismissable";b:1;}
+
+sliced_admin_notice_quote_viewed_1947
+a:3:{s:5:"class";s:14:"notice-success";s:7:"content";s:134:"<p>Quote <a class="sliced-number" href="https://abidinsapps.com/wp-admin/post.php?post=1947&action=edit">QUO-AA1003</a> was viewed</p>";s:11:"dismissable";b:1;}
+
+
+a:60:{i:0;s:19:"invoice_viewed_2350";i:1;s:17:"quote_viewed_1947";i:2;s:19:"invoice_viewed_1408";i:3;s:19:"invoice_viewed_1928";i:4;s:19:"quote_viewed_2339";i:5;s:19:"invoice_viewed_1599";i:6;s:19:"invoice_viewed_2345";i:7;s:19:"invoice_viewed_1398";i:8;s:19:"invoice_viewed_2322";i:9;s:19:"invoice_viewed_1750";i:10;s:19:"invoice_viewed_1344";i:11;s:19:"invoice_viewed_1815";i:12;s:19:"invoice_viewed_1981";i:13;s:19:"invoice_viewed_1410";i:14;s:19:"invoice_viewed_1330";i:15;s:19:"invoice_viewed_1881";i:16;s:19:"invoice_viewed_1403";i:17;s:19:"invoice_viewed_1809";i:18;s:19:"invoice_viewed_1950";i:19;s:19:"invoice_viewed_1952";i:20;s:19:"invoice_viewed_1789";i:21;s:19:"invoice_viewed_1332";i:22;s:19:"invoice_viewed_1684";i:23;s:19:"invoice_viewed_1339";i:24;s:19:"invoice_viewed_1908";i:25;s:19:"invoice_viewed_1887";i:26;s:19:"invoice_viewed_1314";i:27;s:19:"invoice_viewed_1894";i:28;s:19:"invoice_viewed_1729";i:29;s:19:"invoice_viewed_1747";i:30;s:19:"invoice_viewed_1334";i:31;s:19:"invoice_viewed_1863";i:32;s:19:"invoice_viewed_1799";i:33;s:19:"invoice_viewed_1455";i:34;s:19:"invoice_viewed_1323";i:35;s:19:"invoice_viewed_1812";i:36;s:19:"invoice_viewed_1716";i:37;s:19:"invoice_viewed_1340";i:38;s:19:"invoice_viewed_1927";i:39;s:19:"invoice_viewed_1364";i:40;s:19:"invoice_viewed_1328";i:41;s:19:"invoice_viewed_1617";i:42;s:19:"invoice_viewed_1701";i:43;s:19:"invoice_viewed_1451";i:44;s:19:"invoice_viewed_1793";i:45;s:19:"invoice_viewed_1373";i:46;s:19:"invoice_viewed_1814";i:47;s:19:"invoice_viewed_1935";i:48;s:19:"invoice_viewed_1728";i:49;s:19:"invoice_viewed_1756";i:50;s:19:"invoice_viewed_1326";i:51;s:19:"invoice_viewed_1337";i:52;s:19:"invoice_viewed_1722";i:53;s:19:"invoice_viewed_1399";i:54;s:19:"invoice_viewed_1395";i:55;s:19:"invoice_viewed_1706";i:56;s:19:"invoice_viewed_1396";i:57;s:19:"invoice_viewed_1393";i:58;s:17:"quote_viewed_1947";i:59;s:19:"invoice_viewed_2350";}

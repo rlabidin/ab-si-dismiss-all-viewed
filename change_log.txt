@@ -1,0 +1,18 @@
+************************************************************************************************
+	Change log for Sliced Invoices Dismiss All Viewed invoices & Quotes Extension plugin.
+		by Randy Abidin - https//theabidins.com
+
+************************************************************************************************
+
+
+
+v0.6.0 2025-03-27
+    ** Plugin Check (PCP) Version 1.4.0 | By WordPress Performance Team and Plugin
+        * Modified code to address issues.
+
+v0.5.0 2025-03-27
+    ** Enhancements
+        * Added count of viewed invoices and quote to display/hide checkboxes.
+
+v0.4.0 2025-03-25
+    ** Initial Code
