@@ -1,18 +1,15 @@
 # Sliced Invoice Extension - Reset All Viewed Items
 
-[![Stable Tag](https://img.shields.io/wordpress/plugin/v/my-awesome-plugin.svg)](https://wordpress.org/)
-[![Downloads](https://img.shields.io/wordpress/plugin/dt/my-awesome-plugin.svg)](https://wordpress.org/plugins/my-awesome-plugin/)
 [![License](https://img.shields.io/badge/license-GPL--2.0%2B-brightgreen.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
-[![WordPress.org](https://img.shields.io/wordpress/v/my-awesome-plugin?color=blue&label=WordPress.org)](https://wordpress.org/plugins/my-awesome-plugin/)
 
-**Contributors:** [Your WordPress.org Username(s)](https://profiles.wordpress.org/[Your WordPress.org Username])
+**Contributors:** Jean Abidin, Randy Abidin
 **Tags:** viewed invoice, viewed quote, plugin, extension, dismissable
-**Requires at least:** 5.0
 **Tested up to:** 6.7.2
 **Sliced Invoice:** 3.9.3
 **Stable tag:** trunk
 **License:** GPLv2 or later
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html
+
 
 Extension for Sliced Invoices Plugin - Provides a Dismiss-All function to clear all notices of Invoice & Quotes Viewed.
 
