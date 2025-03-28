@@ -4,9 +4,8 @@
 
 **Contributors:** Jean Abidin, Randy Abidin
 **Tags:** viewed invoice, viewed quote, plugin, extension, dismissable
-**Tested up to:** 6.7.2
+**WP Tested up to:** 6.7.2
 **Sliced Invoice:** 3.9.3
-**Stable tag:** trunk
 **License:** GPLv2 or later
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 
