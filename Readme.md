@@ -7,8 +7,7 @@
 **WP Tested up to:** 6.7.2
 **Sliced Invoice:** 3.9.3
 **License:** GPLv2 or later
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html
-
+**License URI:** <http://www.gnu.org/licenses/gpl-2.0.html>
 
 Extension for Sliced Invoices Plugin - Provides a Dismiss-All function to clear all notices of Invoice & Quotes Viewed.
 
@@ -23,55 +22,52 @@ When there are viewed invoices or quotes, a notice is displayed to allow the adm
 * Easy to use interface.
 * No settings required.
 
-
-
 ## Installation
 
 **Manual Upload:**
 
-1.  Download the plugin ZIP file from [https://theabidins.com/plugins/si/dismiss-all].
-2.  Navigate to **Plugins** > **Add New**.
-3.  Click the **Upload Plugin** button at the top of the page.
-4.  Choose the ZIP file you downloaded and click **Install Now**.
-5.  Once installed, click **Activate Plugin**.
+1. Download the plugin ZIP file from [https://theabidins.com/plugins/si/dismiss-all].
+2. Navigate to **Plugins** > **Add New**.
+3. Click the **Upload Plugin** button at the top of the page.
+4. Choose the ZIP file you downloaded and click **Install Now**.
+5. Once installed, click **Activate Plugin**.
 
 ## Frequently Asked Questions
 
 * **Question 1:** What is the main purpose of this plugin?
-    * **Answer:** To dismiss all Sliced Invoice viewed-invoices or all viewed-quotes or both from the dashboard screens.
+  * **Answer:** To dismiss all Sliced Invoice viewed-invoices or all viewed-quotes or both from the dashboard screens.
 * **Question 2:** Is this plugin compatible with the latest version of WordPress?
-    * **Answer:** Yes, it has been tested up to WordPress 6.7.2.
+  * **Answer:** Yes, it has been tested up to WordPress 6.7.2.
 * **Question 3:** Does this plugin require any other plugins to be installed?
-    * **Answer:** Yes. This plugin is an extension of Sliced Invoice plugin and the Sliced Invoice plugin is required to be activated.
+  * **Answer:** Yes. This plugin is an extension of Sliced Invoice plugin and the Sliced Invoice plugin is required to be activated.
 * **Question 4:** What settings does this plugin require?
-    * **Answer:** None! There are no settings with this extension.  Just plug-n-play.
+  * **Answer:** None! There are no settings with this extension.  Just plug-n-play.
 
 ## Screenshots
 
-Include one or more screenshots to visually demonstrate your plugin's functionality and settings. Name your screenshot files `screenshot-1.png`, `screenshot-2.png`, etc., and place them in the root directory of your plugin.
+**WORKING ON THEM** Include one or more screenshots to visually demonstrate your plugin's functionality and settings. Name your screenshot files `screenshot-1.png`, `screenshot-2.png`, etc., and place them in the root directory of your plugin.
 
-1.  A screenshot showing the main settings page.
-2.  A screenshot demonstrating the plugin in action on the frontend.
-3.  (Optional) Another screenshot highlighting a specific feature.
+1. A screenshot showing the main settings page.
+2. A screenshot demonstrating the plugin in action on the frontend.
+3. (Optional) Another screenshot highlighting a specific feature.
 
 ## Changelog
 
 ### [1.0.0] - 2025-03-28
-* Initial release of Dismiss-All Viewed Notices.
 
+* Initial release of Dismiss-All Viewed Notices.
 
 ## Upgrade Notice
 
 This plugin does not store any of its own data so updates will be quick & simple.
 
-
 ## Support
 
 If you need help with the plugin, you can:
 
-* Visit the [plugin support forum on WordPress.org](https://wordpress.org/support/plugin/my-awesome-plugin/).
-* Check the [plugin documentation on your website](https://your-plugin-website.com/documentation/).
-* Contact us through our [support contact form](https://your-plugin-website.com/contact/).
+* Check the [plugin documentation on TheAbidins.com Website](https://theabidins.com/).
+
+* Contact us through our [support contact form](https://theabidins.com).
 
 ## Donations
 
@@ -80,7 +76,6 @@ If you find this plugin useful and would like to support its continued developme
 * [Buy Me a Cup of Coffee page](https://theabidins.com/buy-me-a-cup-of-coffee/)
 
 **Your support is greatly appreciated!**
-
 
 ## Development
 
