@@ -91,8 +91,6 @@ If you find this plugin useful and would like to support its continued developme
 
 ## Development
 
-If you're a developer interested in contributing to the plugin, you can find the code on [link to your GitHub or other repository]. Feel free to submit pull requests.
+If you're a developer interested in contributing to the plugin, you can find the code on [link to the GitHub repository](https://github.com/rlabidin/ab-si-dismiss-all-viewed). Feel free to submit pull requests.
 
 ---
-
-This is a basic template. You should customize it with information specific to your plugin. Remember to keep it clear, concise, and helpful for your users. Good luck!
