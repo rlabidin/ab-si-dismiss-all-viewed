@@ -14,13 +14,14 @@ Extension for Sliced Invoices Plugin - Provides a Dismiss-All function to clear 
 
 ## Description
 
-Sometimes you may find you have many viewed invlices and/or quotes. Some have complained about 35 invoice viewed notices.  This canobviously be anoying as they can cause you to scroll several time to get to the dashboard screen you want to work on.
-When there are viewed invoices or quotes, a notice appears to dismiss all of them at once.  The admin can select invoices and/or quotes to be dismissed.  
+Sometimes you may find you have many viewed invoices and/or quotes. Some have complained about 35 viewed-invoice notices.  This can obviously be anoying as they can require you to scroll several times to get to the dashboard screen you want to work on.
+When there are viewed invoices or quotes, a notice is displayed to allow the admin to dismiss all of them at once.  The admin can select invoices and/or quotes to be dismissed.  
 
 **Key Features:**
 
 * All viewed invoices and/or quotes can be dismissed with 2 clicks.
 * Easy to use interface.
+* No settings required.
 
 
 
@@ -36,16 +37,14 @@ When there are viewed invoices or quotes, a notice appears to dismiss all of the
 
 ## Frequently Asked Questions
 
-Address common questions users might have about your plugin. This can help reduce support requests.
-
 * **Question 1:** What is the main purpose of this plugin?
     * **Answer:** To dismiss all Sliced Invoice viewed-invoices or all viewed-quotes or both from the dashboard screens.
 * **Question 2:** Is this plugin compatible with the latest version of WordPress?
     * **Answer:** Yes, it has been tested up to WordPress 6.7.2.
 * **Question 3:** Does this plugin require any other plugins to be installed?
-    * **Answer:** This plugin is an extension of Sliced Invoice plugin and the Sliced Invoice plugin is required to be activated.
+    * **Answer:** Yes. This plugin is an extension of Sliced Invoice plugin and the Sliced Invoice plugin is required to be activated.
 * **Question 4:** What settings does this plugin require?
-    * **Answer:** There are no settings with this extension.  Just plug-n-play.
+    * **Answer:** None! There are no settings with this extension.  Just plug-n-play.
 
 ## Screenshots
 
@@ -57,15 +56,13 @@ Include one or more screenshots to visually demonstrate your plugin's functional
 
 ## Changelog
 
-Document the changes made in each version of your plugin. Follow a consistent format.
-
 ### [1.0.0] - 2025-03-28
 * Initial release of Dismiss-All Viewed Notices.
 
 
 ## Upgrade Notice
 
-This plugin does not store any of its won data so updates will be quick & simple.
+This plugin does not store any of its own data so updates will be quick & simple.
 
 
 ## Support
