@@ -1,48 +1,38 @@
-# My Awesome WordPress Plugin
+# Sliced Invoice Extension - Reset All Viewed Items
 
-[![Stable Tag](https://img.shields.io/wordpress/plugin/v/my-awesome-plugin.svg)](https://wordpress.org/plugins/my-awesome-plugin/)
+[![Stable Tag](https://img.shields.io/wordpress/plugin/v/my-awesome-plugin.svg)](https://wordpress.org/)
 [![Downloads](https://img.shields.io/wordpress/plugin/dt/my-awesome-plugin.svg)](https://wordpress.org/plugins/my-awesome-plugin/)
 [![License](https://img.shields.io/badge/license-GPL--2.0%2B-brightgreen.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 [![WordPress.org](https://img.shields.io/wordpress/v/my-awesome-plugin?color=blue&label=WordPress.org)](https://wordpress.org/plugins/my-awesome-plugin/)
 
 **Contributors:** [Your WordPress.org Username(s)](https://profiles.wordpress.org/[Your WordPress.org Username])
-**Tags:** awesome, plugin, functionality, utility, example
+**Tags:** viewed invoice, viewed quote, plugin, extension, dismissable
 **Requires at least:** 5.0
-**Tested up to:** 6.5
+**Tested up to:** 6.7.2
+**Sliced Invoice:** 3.9.3
 **Stable tag:** trunk
 **License:** GPLv2 or later
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 
-A brief and engaging description of what your plugin does. Highlight its key functionality and benefits for the user.
+Extension for Sliced Invoices Plugin - Provides a Dismiss-All function to clear all notices of Invoice & Quotes Viewed.
 
 ## Description
 
-Provide a more detailed explanation of your plugin's features and how it works. You can break this down into sections if your plugin has multiple functionalities.
+Sometimes you may find you have many viewed invlices and/or quotes. Some have complained about 35 invoice viewed notices.  This canobviously be anoying as they can cause you to scroll several time to get to the dashboard screen you want to work on.
+When there are viewed invoices or quotes, a notice appears to dismiss all of them at once.  The admin can select invoices and/or quotes to be dismissed.  
 
 **Key Features:**
 
-* Feature 1: Describe the first key feature and its benefits.
-* Feature 2: Explain the second important feature.
-* Feature 3: Detail any other significant functionalities.
-* Easy to use interface (if applicable).
-* Highly customizable (if applicable).
+* All viewed invoices and/or quotes can be dismissed with 2 clicks.
+* Easy to use interface.
 
-This section can be longer and provide more context for users who want to understand the plugin in depth before installing.
+
 
 ## Installation
 
-Explain how users can install your plugin. Provide clear, step-by-step instructions.
-
-**From the WordPress Dashboard:**
-
-1.  Navigate to **Plugins** > **Add New**.
-2.  In the search bar, type **My Awesome WordPress Plugin**.
-3.  Locate the plugin in the search results and click **Install Now**.
-4.  Once installed, click **Activate**.
-
 **Manual Upload:**
 
-1.  Download the plugin ZIP file from [link to your plugin on WordPress.org or your website].
+1.  Download the plugin ZIP file from [https://theabidins.com/plugins/si/dismiss-all].
 2.  Navigate to **Plugins** > **Add New**.
 3.  Click the **Upload Plugin** button at the top of the page.
 4.  Choose the ZIP file you downloaded and click **Install Now**.
@@ -53,13 +43,13 @@ Explain how users can install your plugin. Provide clear, step-by-step instructi
 Address common questions users might have about your plugin. This can help reduce support requests.
 
 * **Question 1:** What is the main purpose of this plugin?
-    * **Answer:** Briefly answer the question.
+    * **Answer:** To dismiss all Sliced Invoice viewed-invoices or all viewed-quotes or both from the dashboard screens.
 * **Question 2:** Is this plugin compatible with the latest version of WordPress?
-    * **Answer:** Yes, it has been tested up to WordPress X.Y.
+    * **Answer:** Yes, it has been tested up to WordPress 6.7.2.
 * **Question 3:** Does this plugin require any other plugins to be installed?
-    * **Answer:** Specify any dependencies. If none, state that.
-* **Question 4:** How do I configure [a specific feature]?
-    * **Answer:** Provide a concise explanation or link to a more detailed documentation page.
+    * **Answer:** This plugin is an extension of Sliced Invoice plugin and the Sliced Invoice plugin is required to be activated.
+* **Question 4:** What settings does this plugin require?
+    * **Answer:** There are no settings with this extension.  Just plug-n-play.
 
 ## Screenshots
 
@@ -73,32 +63,14 @@ Include one or more screenshots to visually demonstrate your plugin's functional
 
 Document the changes made in each version of your plugin. Follow a consistent format.
 
-### [1.0.0] - YYYY-MM-DD
-* Initial release of My Awesome WordPress Plugin.
-* Implemented Feature 1.
-* Added Feature 2.
-* Included basic settings page.
+### [1.0.0] - 2025-03-28
+* Initial release of Dismiss-All Viewed Notices.
 
-### [1.0.1] - YYYY-MM-DD
-* Fixed a minor bug related to [specific issue].
-* Improved the performance of [specific function].
-
-### [1.1.0] - YYYY-MM-DD
-* Added Feature 3.
-* Introduced new settings for [specific functionality].
-* Updated documentation.
 
 ## Upgrade Notice
 
-Inform users about important changes or instructions when upgrading to a new version.
+This plugin does not store any of its won data so updates will be quick & simple.
 
-### Version 1.1.0
-
-This version introduces a new major feature. Please review the settings page after upgrading to configure the new options.
-
-### Version 2.0.0
-
-This is a significant update that may require you to adjust your workflow. Please refer to the updated documentation for detailed instructions.
 
 ## Support
 
@@ -112,16 +84,10 @@ If you need help with the plugin, you can:
 
 If you find this plugin useful and would like to support its continued development, you can make a donation via:
 
-* [Link to your PayPal donation page](https://www.paypal.com/donate/?hosted_button_id=YOUR_BUTTON_ID)
-* [Link to your Buy Me a Coffee page](https://www.buymeacoffee.com/YOUR_USERNAME)
+* [Buy Me a Cup of Coffee page](https://theabidins.com/buy-me-a-cup-of-coffee/)
 
-Your support is greatly appreciated!
+**Your support is greatly appreciated!**
 
-## Credits
-
-If your plugin utilizes any third-party libraries, frameworks, or resources, give proper attribution here.
-
-* [Name of Library/Framework](Link to their website) - License information (if applicable).
 
 ## Development
 
